@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">City Name</string>
+    <string name="refresh_button_text">refresh</string>
+    <string name="big_temp">18</string>
+
+</resources>
